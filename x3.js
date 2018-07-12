@@ -1,4 +1,4 @@
 # a javascript file
 function happy(){
-  alert("HAPPY");
+  alert("Be Happy");
 }
